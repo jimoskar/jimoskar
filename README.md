@@ -1,9 +1,11 @@
 ### Hi there 👋
-🌱 I’m currently learning about GLMs, mathematical modelling, finance and data science!
+🌱 I’m currently studying computational statistcs, lifetime analysis and spatial statistics!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimoskar&count_private=true&hide=stars&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimoskar&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimoskar&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
