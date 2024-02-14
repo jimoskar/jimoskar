@@ -1,5 +1,4 @@
-### Hi there 👋
-🌱 I’m currently studying computational statistcs, lifetime analysis and spatial statistics!
+### Techonology Analyst @ BearingPoint
 
 
 
